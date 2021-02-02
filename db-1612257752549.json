@@ -1,0 +1,135 @@
+{
+  "Tweets": [
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 5
+    },
+    {
+      "sender": {
+        "name": "سیامک کوه دره",
+        "id": "@koooooh",
+        "img": "/images/koooh_user.png"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 57
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 9
+    },
+    {
+      "sender": {
+        "name": "سیامک کوه دره",
+        "id": "@koooooh",
+        "img": "/images/koooh_user.png"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 0
+    },
+    {
+      "sender": {
+        "name": "Samsung",
+        "id": "@samsung",
+        "img": "/images/samsung.png"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 22
+    },
+    {
+      "sender": {
+        "name": "سیامک کوه دره",
+        "id": "@koooooh",
+        "img": "/images/koooh_user.png"
+      },
+      "text": " بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کسی خورشت #کرفس درست کنه",
+      "likes": 8
+    },
+    {
+      "id": 56,
+      "sender": {
+        "name": "Mohamad",
+        "id": "@mohamad.unique",
+        "img": "/images/samsung.png"
+      },
+      "text": "salam tweet jadid",
+      "likes": 9
+    },
+    {
+      "id": 280,
+      "sender": {
+        "name": "Mohamad",
+        "id": "@mohamad.unique",
+        "img": "/images/samsung.png"
+      },
+      "text": "salam",
+      "likes": 9
+    },
+    {
+      "id": 932,
+      "sender": {
+        "name": "Mohamad",
+        "id": "@mohamad.unique",
+        "img": "/images/samsung.png"
+      },
+      "text": "oujhn",
+      "likes": 9
+    },
+    {
+      "id": 544,
+      "sender": {
+        "name": "Mohamad",
+        "id": "@mohamad.unique",
+        "img": "/images/samsung.png"
+      },
+      "text": ";ilukj",
+      "likes": 9
+    }
+  ],
+  "hashTags": [
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر",
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سامسونگ",
+    "هلو_سامر"
+  ],
+  "users": [
+    {
+      "name": "xiaomi",
+      "id": "@xiaomi",
+      "img": "/images/xiaomi.png"
+    },
+    {
+      "name": "Samsung",
+      "id": "@samsung",
+      "img": "/images/samsung.png"
+    },
+    {
+      "name": "بیل گیتس",
+      "id": "@BillGates",
+      "img": "/images/bil.png"
+    },
+    {
+      "name": "مایک بای",
+      "id": "@Mike_IMC",
+      "img": "/images/mike.png"
+    },
+    {
+      "name": "شرلی ونگ!",
+      "id": "@Shirley_IMC",
+      "img": "/images/shily.png"
+    }
+  ]
+}
